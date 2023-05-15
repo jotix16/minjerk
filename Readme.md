@@ -19,8 +19,8 @@ get_min_jerk_trajectory_lambdas(..)
 ```
 
 ## Installation
-Aftere creating and avctivating your virtual environment, install the package with pip:
+After creating and activating your virtual environment, install the package with pip:
 ``` bash
-cd .../minjerk
+cd minjerk
 pip install .
 ```
